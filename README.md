@@ -1,2 +1,2 @@
-# dopa-xp-system
+# xp-system
 XP System for Employees
